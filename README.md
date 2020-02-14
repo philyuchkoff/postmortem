@@ -1,4 +1,5 @@
 # postmortem
+Неплохой пример: https://status.cloud.yandex.ru/incidents/8
 
 # Summary
 
